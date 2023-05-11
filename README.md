@@ -25,9 +25,9 @@ Mu-rhythm ERD during TS correlates with mu-rhythm ERD during TI
 <br/>
 TI modulates ERP to 75 ms vibrational stimuli, particularly, P100, P200 in ipsilateral hemisphere and P300 in contra- and ipsilateral hemispheres
 
-<img src="figs/rest_vs_imagery_erp.gif" alt="" width="800">
+<img src="figs/rest_vs_imagery_erp.gif" alt="" width="600">
 
 <br/>
 Event-Related Time-Frequency changes to 75 ms vibrational stimuli consist of ERS in theta-frequency range and ERD in mu- and beta-frequency ranges, and ERS in theta-frequency range statistically significantly increases during TI
 
-![Alt Text](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/figs/topomaps_powers_pulses.jpg)
+<img src="figs/topomaps_powers_pulses.gif" alt="" width="600">
