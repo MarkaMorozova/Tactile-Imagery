@@ -13,21 +13,21 @@ This repository contains notebooks and data to generate final figures from the a
 - run the notebooks
 
 ## Main findings
-Mu-rhythm ERD during TS correlates with mu-rhythm ERD during TI
+1. Mu-rhythm ERD during TS correlates with mu-rhythm ERD during TI
 
 <img src="figs/correlation_ts_ti.jpg" alt="" width="400">
 
 <br/>
-- ERP to 75 ms vibrational stimuli consist of 3 main components P100, P200, P300
+2. ERP to 75 ms vibrational stimuli consist of 3 main components P100, P200, P300
 
 <img src="figs/erps.jpg" alt="" width="800">
 
 <br/>
-TI modulates ERP to 75 ms vibrational stimuli, particularly, P100, P200 in ipsilateral hemisphere and P300 in contra- and ipsilateral hemispheres
+3. TI modulates ERP to 75 ms vibrational stimuli, particularly, P100, P200 in ipsilateral hemisphere and P300 in contra- and ipsilateral hemispheres
 
 <img src="figs/rest_vs_imagery_erp.gif" alt="" width="600">
 
 <br/>
-Event-Related Time-Frequency changes to 75 ms vibrational stimuli consist of ERS in theta-frequency range and ERD in mu- and beta-frequency ranges, and ERS in theta-frequency range statistically significantly increases during TI
+4. Event-Related Time-Frequency changes to 75 ms vibrational stimuli consist of ERS in theta-frequency range and ERD in mu- and beta-frequency ranges, and ERS in theta-frequency range statistically significantly increases during TI
 
-<img src="figs/topomaps_powers_pulses.gif" alt="" width="600">
+<img src="figs/topomaps_powers_pulses.jpg" alt="" width="600">
