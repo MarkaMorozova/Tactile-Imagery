@@ -15,7 +15,7 @@ This repository contains notebooks and data to generate final figures from the a
 ## Main findings
 Mu-rhythm ERD during TS correlates with mu-rhythm ERD during TI
 
-<img src="figs/correlation_ts_ti.jpg" alt="Metrics bgbGAT vs MLP" width="400">
+<img src="figs/correlation_ts_ti.jpg" alt="" width="400">
 
 <br/>
 - ERP to 75 ms vibrational stimuli consist of 3 main components P100, P200, P300
