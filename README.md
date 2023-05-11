@@ -1,5 +1,5 @@
 # Tactile Imagery
-This repository contains notebooks and data to generate final figures from the article XXX. We aimed to study the changes in the sensory processing of tactile (vibrational) stimuli during Tactile Imagery.
+This repository contains notebooks and data to generate final figures. The aim of the study is to investigate the modulatory effects of mental tactile imagery on somatosensory processing.
 
 ## Repository Structure
 - [8-sec tactile stimulation&imagery.ipynb](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/1.%208-sec%20tactile%20stimulation%26imagery.ipynb): notebook to analyze Event-Related Desynchronizations (ERD) in response to 8-second Tactile Stimulation (TS) and Tactile Imagery (TI) epochs (learning of TI)
