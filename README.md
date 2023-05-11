@@ -19,10 +19,15 @@ This repository contains notebooks and data to generate final figures from the a
 
 <br/>
 - ERP to 75 ms vibrational stimuli consist of 3 main components P100, P200, P300
+
 ![Alt Text](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/figs/erps.jpg)
+
 <br/>
 - TI modulates ERP to 75 ms vibrational stimuli, particularly, P100, P200 in ipsilateral hemisphere and P300 in contra- and ipsilateral hemispheres
+
 ![Alt Text](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/figs/rest_vs_imagery_erp.gif)
+
 <br/>
 - Event-Related Time-Frequency changes to 75 ms vibrational stimuli consist of ERS in theta-frequency range and ERD in mu- and beta-frequency ranges, and ERS in theta-frequency range statistically significantly increases during TI
+
 ![Alt Text](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/figs/topomaps_powers_pulses.jpg)
