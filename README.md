@@ -6,6 +6,8 @@ This repository contains notebooks and data to generate final figures. The aim o
 - [somatosensory ERP rest&imagery.ipynb](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/2.%20somatosensory%20ERP%20rest%26imagery.ipynb): notebook to analyze Event-Related Potentials (ERP) in response to 75 ms vibrational stimuli during Rest and TI
 - [ERD to short tactile stimuli rest&imagery.ipynb](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/3.%20ERD%20to%20short%20tactile%20stimuli%20rest%26imagery.ipynb): notebook to analyze Event-Related Desynchronizations and Synchronizations (ERD and ERS) in response to 75 ms vibrational stimuli during Rest and TI
 - [figs folder](https://github.com/MarkaMorozova/Tactile-Imagery/tree/main/figs): contains main figures from the notebooks
+- [vibro_script](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/vibro_script.ipynb): notebook with experimental script to run collect data from participants
+- [brief_analysis](https://github.com/MarkaMorozova/Tactile-Imagery/blob/main/brief_analysis.ipynb): notebook with brief analysis of the experimental data; we used it during the experiment to briefly watch at mu-rhythm ERD or ERP, show to the participants, engage them and correct smth
 
 ## How to use repository
 - download zip-archive with the preprocessed data [here](https://drive.google.com/file/d/1NXV7dYO2dlHMTA_AOzInS16sbDLL1QZz/view?usp=sharing) 
