@@ -15,8 +15,11 @@ This repository contains notebooks and data to generate final figures. The aim o
 
 ## How to use repository
 - download zip-archive with the preprocessed data [here](https://drive.google.com/file/d/1NXV7dYO2dlHMTA_AOzInS16sbDLL1QZz/view?usp=sharing) 
+
 - download/clone this repository
+
 - unzip archive with the preprocessed data, place the folder `preprocessed_data` in the same folder as notebooks
+
 - run the notebooks
 
 ## Main findings
