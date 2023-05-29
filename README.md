@@ -11,28 +11,29 @@ This repository contains notebooks and data to generate final figures. The aim o
 
 ## How to use repository
 - download zip-archive with the preprocessed data [here](https://drive.google.com/file/d/1NXV7dYO2dlHMTA_AOzInS16sbDLL1QZz/view?usp=sharing) 
-- unzip archive, place the folder `preprocessed_data` in the same folder as notebooks
+- download/clone this repository
+- unzip archive with the preprocessed data, place the folder `preprocessed_data` in the same folder as notebooks
 - run the notebooks
 
 ## Main findings
-**1.** Mu-rhythm ERD during TS correlates with mu-rhythm ERD during TI
+### 1. Mu-rhythm ERD during TS correlates with mu-rhythm ERD during TI
 
 <img src="figs/correlation_ts_ti.jpg" alt="" width="400">
 
 <br/>
 
-**2.** ERP to 75 ms vibrational stimuli consist of 3 main components P100, P200, P300
+### 2. ERP to 75 ms vibrational stimuli consist of 3 main components P100, P200, P300
 
 <img src="figs/erps.jpg" alt="" width="800">
 
 <br/>
 
-**3.** TI modulates ERP to 75 ms vibrational stimuli, particularly, P100, P200 in ipsilateral hemisphere and P300 in contra- and ipsilateral hemispheres
+### 3. TI modulates ERP to 75 ms vibrational stimuli, particularly, P100 in ipsilateral hemisphere, P200 in frontal region and P300 in contra- and ipsilateral hemispheres
 
 <img src="figs/rest_vs_imagery_erp.gif" alt="" width="600">
 
 <br/>
 
-**4.** Event-Related Time-Frequency changes to 75 ms vibrational stimuli consist of ERS in theta-frequency range and ERD in mu- and beta-frequency ranges, and ERS in theta-frequency range statistically significantly increases during TI
+### 4. Event-Related Time-Frequency changes to 75 ms vibrational stimuli consist of ERS in theta-frequency range and ERD in mu- and beta-frequency ranges, and ERS in theta-frequency range statistically significantly increases during TI
 
 <img src="figs/topomaps_powers_pulses.jpg" alt="" width="600">
